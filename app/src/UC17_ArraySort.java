@@ -1,7 +1,5 @@
 import java.util.*;
-
 public class UC17_ArraySort{
-
     public static void main(String[] args) {
 
         System.out.println("=== Train Unit Sorting (Arrays.sort) ===\n");
