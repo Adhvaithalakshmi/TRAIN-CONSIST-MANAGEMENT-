@@ -1,4 +1,4 @@
-public class UC18_LinearSearch {
+public class UC21_LinearSearch {
 
     public static void main(String[] args) {
 
