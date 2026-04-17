@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class UC17_ArraySorting {
+public class UC22_ArraySorting {
 
     public static void main(String[] args) {
 
